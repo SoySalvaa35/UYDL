@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Doyou",
+            "link": "https://www.youtube.com/watch?v=rJGmeDbCJ70&list=PLzCGB4AQOTHbg3oke3EkGJvXWokDqJ8wj&index=11",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Redelekys",
+            "link": "https://www.youtube.com/watch?v=eahCRm-eBSc&t=55s",
+            "percent": 100,
+            "hz": ?
+        }
     ]
 }
