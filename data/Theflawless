@@ -1,12 +1,12 @@
 {
     "id": 21280210,
     "name": "The flawless",
-    "author": "FIN",
-    "creators": ["FIN and more"],
+    "author": "Ryan",
+    "creators": ["Ryan and more"],
     "verifier": "Doyou",
-    "verification": "https://www.youtube.com/watch?v=Fpe83L1lcog&list=PLzCGB4AQOTHbg3oke3EkGJvXWokDqJ8wj&index=2",
+    "verification": "https://www.youtube.com/watch?v=Fpe83L1lcog&t=1s",
     "percentToQualify": 100,
-    "password": "Si",
+    "password": "N/A",
     "records": [
     ]
 }
