@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Si",
     "records": [
-    ]
+     {
+            "user": "Redelekys",
+            "link": "https://www.youtube.com/watch?v=xEYF0tpFLhs",
+            "percent": 100,
+            "hz": 165
+    }
+  ]
 }
